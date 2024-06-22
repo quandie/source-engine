@@ -10,3 +10,4 @@ source++ is a project meant to update valve's source engine
 - android support (?)
 - increase engine limits (brushes, leaves, etc.)
 - 2 in 1 singleplayer + multiplayer support
+- better gui (?)
